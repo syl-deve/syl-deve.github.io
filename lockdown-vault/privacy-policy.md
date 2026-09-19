@@ -1,3 +1,9 @@
+---
+layout: default
+title: Lockdown Vault Privacy Policy
+permalink: /lockdown-vault/privacy-policy/
+---
+
 # Lockdown Vault Privacy Policy
 
 **Effective date:** September 19, 2026
