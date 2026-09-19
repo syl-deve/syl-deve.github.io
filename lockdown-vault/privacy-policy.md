@@ -1,10 +1,3 @@
-```markdown
----
-layout: default
-title: Lockdown Vault Privacy Policy
-permalink: /lockdown-vault/privacy-policy/
----
-
 # Lockdown Vault Privacy Policy
 
 **Effective date:** September 19, 2026
@@ -50,7 +43,3 @@ We may update this policy when the app's data practices change. The effective da
 ## Contact
 
 Questions about this policy or the app's privacy practices: **mythe627@naver.com**
-```
-Google Play는 민감한 데이터 앱의 경우 스토어 등록정보와 앱 내부 모두에서 개인정보처리방침을 접근할 수 있어야 한다고 안내합니다. 따라서 나중에 앱 설정 화면에도 같은 URL을 연결해야 합니다. [Google Play 공식 안내](https://support.google.com/googleplay/android-developer/answer/9859455?hl=en)
-
-우선 GitHub에서 페이지를 만든 뒤 URL이 정상적으로 열리는지 확인하고, 그 URL을 Play Console에 입력하면 됩니다.
