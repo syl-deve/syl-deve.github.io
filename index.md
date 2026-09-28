@@ -12,6 +12,7 @@ permalink: /
 
 ## 공개 문서
 
+- [Pocket Sort 개인정보처리방침]({{ '/pocket-sort/' | relative_url }})
 - [개인정보처리방침]({{ '/privacy-policy/' | relative_url }})
 - [이용약관]({{ '/terms/' | relative_url }})
 - [문의 방법]({{ '/contact/' | relative_url }})
