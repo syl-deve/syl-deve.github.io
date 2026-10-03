@@ -6,7 +6,7 @@ permalink: /pocket-sort/
 
 # Pocket Sort Privacy Policy
 
-**Effective date: September 28 2026**
+**Effective date: October 3 2026**
 
 This policy applies to Pocket Sort for Android. Package name: `com.pocketsort.game`.
 
@@ -24,11 +24,11 @@ This policy applies to Pocket Sort for Android. Package name: `com.pocketsort.ga
 
 ### Information handled by the game
 
-Pocket Sort stores game progress on your device. This can include scores and best scores for Endless and Sprint modes. It can also include coins and cosmetic items you own or equip. Your language and sound settings and music and vibration preferences and tutorial status and rewarded-ad counters are stored locally. The game does not ask you to enter your name or email address to play.
+Pocket Sort stores game progress on your device. This can include scores and best scores for Endless and Sprint modes. It can also include coins and cosmetic items you own or equip. Your language and sound settings and music and vibration preferences and tutorial status are stored locally. The daily rewarded-ad counters for shop ads and double-reward ads are saved on the device and may also sync through Google Play Games Saved Games when you sign in. The game does not ask you to enter your name or email address to play.
 
 ### Google Play Games Services
 
-If you use Google Play Games sign-in then Pocket Sort receives your Google Play Games player ID. The game uses it to keep each signed-in player's progress separate. It uploads best scores to the Endless and Sprint leaderboards. It can also sync coins and owned or equipped cosmetics and best scores through Google Play Games Saved Games.
+If you use Google Play Games sign-in then Pocket Sort receives your Google Play Games player ID. The game uses it to keep each signed-in player's progress separate. It uploads best scores to the Endless and Sprint leaderboards. It can also sync coins and owned or equipped cosmetics and best scores and daily rewarded-ad counters through Google Play Games Saved Games.
 
 Google Play Games operates sign-in and leaderboard screens. Those screens may show your Play Games gamer name and score according to Google's settings. Pocket Sort does not receive your Google password or Google account email address through this sign-in flow. You can play without signing in but cloud saves and leaderboards may be unavailable.
 
@@ -67,11 +67,11 @@ For privacy requests or questions email [mythe627@naver.com](mailto:mythe627@nav
 
 ### 앱이 처리하는 정보
 
-Pocket Sort는 게임 진행 정보를 기기에 저장합니다. 여기에는 무한 모드와 스프린트 모드의 점수와 최고 기록이 포함될 수 있습니다. 코인과 보유하거나 장착한 꾸미기 아이템도 저장될 수 있습니다. 언어와 효과음 및 음악과 진동 설정과 튜토리얼 확인 상태와 보상형 광고 횟수도 기기에 저장합니다. 게임을 시작할 때 이름이나 이메일을 입력하지 않아도 됩니다.
+Pocket Sort는 게임 진행 정보를 기기에 저장합니다. 여기에는 무한 모드와 스프린트 모드의 점수와 최고 기록이 포함될 수 있습니다. 코인과 보유하거나 장착한 꾸미기 아이템도 저장될 수 있습니다. 언어와 효과음 및 음악과 진동 설정과 튜토리얼 확인 상태는 기기에 저장합니다. 상점 광고와 보상 두 배 광고의 일일 사용 횟수도 기기에 저장하며 로그인하면 Google Play Games 저장된 게임과 동기화할 수 있습니다. 게임을 시작할 때 이름이나 이메일을 입력하지 않아도 됩니다.
 
 ### Google Play Games 서비스
 
-Google Play Games 로그인 기능을 사용하면 Pocket Sort는 Google Play Games 플레이어 ID를 받습니다. 로그인한 플레이어별 진행 정보를 구분하는 데 사용합니다. 무한 모드와 스프린트 모드의 최고 점수를 순위표에 제출합니다. 코인과 보유하거나 장착한 꾸미기와 최고 기록을 Google Play Games 저장된 게임으로 동기화할 수도 있습니다.
+Google Play Games 로그인 기능을 사용하면 Pocket Sort는 Google Play Games 플레이어 ID를 받습니다. 로그인한 플레이어별 진행 정보를 구분하는 데 사용합니다. 무한 모드와 스프린트 모드의 최고 점수를 순위표에 제출합니다. 코인과 보유하거나 장착한 꾸미기와 최고 기록과 광고 종류별 일일 사용 횟수를 Google Play Games 저장된 게임으로 동기화할 수도 있습니다.
 
 로그인과 순위표 화면은 Google Play Games가 제공합니다. Google 설정에 따라 해당 화면에 게이머 이름과 점수가 표시될 수 있습니다. Pocket Sort는 이 로그인 과정에서 Google 비밀번호나 Google 계정 이메일을 받지 않습니다. 로그인하지 않아도 플레이할 수 있지만 클라우드 저장과 순위표는 사용할 수 없을 수 있습니다.
 
@@ -110,11 +110,11 @@ Pocket Sort 게임 화면은 이용자에게 개인정보를 직접 입력하도
 
 ### Informasi yang diproses game
 
-Pocket Sort menyimpan kemajuan game di perangkat Anda. Informasi ini dapat mencakup skor dan skor terbaik untuk mode Endless dan Sprint. Koin dan item kosmetik yang dimiliki atau dipakai juga dapat disimpan. Pilihan bahasa dan suara serta musik dan getaran serta status tutorial dan jumlah iklan berhadiah disimpan secara lokal. Anda tidak perlu memasukkan nama atau alamat email untuk bermain.
+Pocket Sort menyimpan kemajuan game di perangkat Anda. Informasi ini dapat mencakup skor dan skor terbaik untuk mode Endless dan Sprint. Koin dan item kosmetik yang dimiliki atau dipakai juga dapat disimpan. Pilihan bahasa dan suara serta musik dan getaran serta status tutorial disimpan secara lokal. Jumlah harian iklan berhadiah di toko dan iklan hadiah ganda disimpan di perangkat dan dapat disinkronkan melalui Saved Games Google Play Games saat Anda login. Anda tidak perlu memasukkan nama atau alamat email untuk bermain.
 
 ### Layanan Google Play Games
 
-Jika Anda menggunakan login Google Play Games maka Pocket Sort menerima ID pemain Google Play Games. ID ini digunakan untuk memisahkan kemajuan setiap pemain yang masuk. Game mengirimkan skor terbaik ke papan peringkat Endless dan Sprint. Koin dan item kosmetik yang dimiliki atau dipakai serta skor terbaik juga dapat disinkronkan melalui Saved Games Google Play Games.
+Jika Anda menggunakan login Google Play Games maka Pocket Sort menerima ID pemain Google Play Games. ID ini digunakan untuk memisahkan kemajuan setiap pemain yang masuk. Game mengirimkan skor terbaik ke papan peringkat Endless dan Sprint. Koin dan item kosmetik yang dimiliki atau dipakai serta skor terbaik dan jumlah harian iklan berhadiah juga dapat disinkronkan melalui Saved Games Google Play Games.
 
 Google Play Games menyediakan layar login dan papan peringkat. Layar tersebut dapat menampilkan nama gamer Play Games dan skor Anda sesuai setelan Google. Pocket Sort tidak menerima sandi Google atau alamat email Akun Google melalui proses login ini. Anda tetap dapat bermain tanpa login tetapi penyimpanan cloud dan papan peringkat mungkin tidak tersedia.
 
@@ -153,11 +153,11 @@ Untuk pertanyaan atau permintaan privasi kirim email ke [mythe627@naver.com](mai
 
 ### Informações processadas pelo jogo
 
-O Pocket Sort armazena o progresso do jogo no seu dispositivo. Isso pode incluir pontuações e recordes nos modos Endless e Sprint. Moedas e itens cosméticos que você possui ou equipa também podem ser armazenados. O idioma e as preferências de efeitos sonoros e música e vibração e o status do tutorial e os limites de anúncios premiados são guardados localmente. Você não precisa informar seu nome ou e-mail para jogar.
+O Pocket Sort armazena o progresso do jogo no seu dispositivo. Isso pode incluir pontuações e recordes nos modos Endless e Sprint. Moedas e itens cosméticos que você possui ou equipa também podem ser armazenados. O idioma e as preferências de efeitos sonoros e música e vibração e o status do tutorial são guardados localmente. Os limites diários de anúncios da loja e de anúncios que dobram a recompensa são salvos no dispositivo e podem ser sincronizados pelo Saved Games do Google Play Games quando você entra na conta. Você não precisa informar seu nome ou e-mail para jogar.
 
 ### Serviços do Google Play Games
 
-Se você usar o login do Google Play Games o Pocket Sort receberá seu ID de jogador do Google Play Games. Ele é usado para separar o progresso de cada jogador conectado. O jogo envia recordes para os placares de Endless e Sprint. Moedas e itens cosméticos possuídos ou equipados e recordes também podem ser sincronizados pelo recurso Saved Games do Google Play Games.
+Se você usar o login do Google Play Games o Pocket Sort receberá seu ID de jogador do Google Play Games. Ele é usado para separar o progresso de cada jogador conectado. O jogo envia recordes para os placares de Endless e Sprint. Moedas e itens cosméticos possuídos ou equipados e recordes e limites diários de anúncios premiados também podem ser sincronizados pelo recurso Saved Games do Google Play Games.
 
 O Google Play Games oferece as telas de login e de placar. Essas telas podem mostrar seu nome de jogador e sua pontuação conforme as configurações do Google. O Pocket Sort não recebe sua senha do Google nem o e-mail da sua Conta do Google por esse login. Você pode jogar sem entrar na conta mas os salvamentos na nuvem e os placares podem não estar disponíveis.
 
@@ -196,11 +196,11 @@ Para dúvidas ou solicitações de privacidade envie um e-mail para [mythe627@na
 
 ### Información que procesa el juego
 
-Pocket Sort guarda el progreso del juego en tu dispositivo. Puede incluir puntajes y récords de los modos Endless y Sprint. También puede guardar monedas y artículos cosméticos que tengas o equipes. El idioma y las preferencias de sonido y música y vibración y el estado del tutorial y los límites de anuncios con recompensa se guardan localmente. No necesitas ingresar tu nombre ni tu correo electrónico para jugar.
+Pocket Sort guarda el progreso del juego en tu dispositivo. Puede incluir puntajes y récords de los modos Endless y Sprint. También puede guardar monedas y artículos cosméticos que tengas o equipes. El idioma y las preferencias de sonido y música y vibración y el estado del tutorial se guardan localmente. Los límites diarios de anuncios de la tienda y de anuncios que duplican la recompensa se guardan en el dispositivo y pueden sincronizarse mediante Saved Games de Google Play Games cuando inicias sesión. No necesitas ingresar tu nombre ni tu correo electrónico para jugar.
 
 ### Servicios de Google Play Games
 
-Si usas el inicio de sesión de Google Play Games Pocket Sort recibe tu ID de jugador de Google Play Games. El juego lo usa para separar el progreso de cada jugador conectado. Envía los récords a las tablas de posiciones de Endless y Sprint. También puede sincronizar monedas y artículos cosméticos y récords mediante Saved Games de Google Play Games.
+Si usas el inicio de sesión de Google Play Games Pocket Sort recibe tu ID de jugador de Google Play Games. El juego lo usa para separar el progreso de cada jugador conectado. Envía los récords a las tablas de posiciones de Endless y Sprint. También puede sincronizar monedas y artículos cosméticos y récords y límites diarios de anuncios con recompensa mediante Saved Games de Google Play Games.
 
 Google Play Games controla las pantallas de inicio de sesión y de tabla de posiciones. Esas pantallas pueden mostrar tu nombre de jugador y tu puntaje según la configuración de Google. Pocket Sort no recibe tu contraseña de Google ni el correo de tu Cuenta de Google mediante este inicio de sesión. Puedes jugar sin iniciar sesión pero es posible que no tengas disponibles las partidas guardadas en la nube ni las tablas de posiciones.
 
@@ -239,11 +239,11 @@ Para consultas o solicitudes de privacidad escribe a [mythe627@naver.com](mailto
 
 ### गेम द्वारा संभाली जाने वाली जानकारी
 
-Pocket Sort आपकी डिवाइस पर गेम की प्रगति सहेजता है। इसमें Endless और Sprint मोड के स्कोर और सर्वश्रेष्ठ स्कोर शामिल हो सकते हैं। आपके सिक्के और खरीदे या लगाए गए कॉस्मेटिक आइटम भी सहेजे जा सकते हैं। भाषा और ध्वनि तथा संगीत और कंपन की पसंद और ट्यूटोरियल की स्थिति और पुरस्कृत विज्ञापनों की दैनिक गिनती डिवाइस पर सहेजी जाती है। खेलने के लिए आपको अपना नाम या ईमेल दर्ज करने की आवश्यकता नहीं है।
+Pocket Sort आपकी डिवाइस पर गेम की प्रगति सहेजता है। इसमें Endless और Sprint मोड के स्कोर और सर्वश्रेष्ठ स्कोर शामिल हो सकते हैं। आपके सिक्के और खरीदे या लगाए गए कॉस्मेटिक आइटम भी सहेजे जा सकते हैं। भाषा और ध्वनि तथा संगीत और कंपन की पसंद और ट्यूटोरियल की स्थिति डिवाइस पर सहेजी जाती है। दुकान के विज्ञापनों और दोहरी इनाम वाले विज्ञापनों की दैनिक गिनती डिवाइस पर सहेजी जाती है और साइन इन करने पर Google Play Games Saved Games के साथ सिंक हो सकती है। खेलने के लिए आपको अपना नाम या ईमेल दर्ज करने की आवश्यकता नहीं है।
 
 ### Google Play Games सेवाएँ
 
-यदि आप Google Play Games से साइन इन करते हैं तो Pocket Sort को आपका Google Play Games खिलाड़ी ID मिलता है। इसका उपयोग साइन इन किए गए प्रत्येक खिलाड़ी की प्रगति अलग रखने के लिए किया जाता है। गेम Endless और Sprint लीडरबोर्ड पर सर्वश्रेष्ठ स्कोर भेजता है। सिक्के और आपके कॉस्मेटिक आइटम तथा सर्वश्रेष्ठ स्कोर Google Play Games Saved Games के माध्यम से सिंक भी हो सकते हैं।
+यदि आप Google Play Games से साइन इन करते हैं तो Pocket Sort को आपका Google Play Games खिलाड़ी ID मिलता है। इसका उपयोग साइन इन किए गए प्रत्येक खिलाड़ी की प्रगति अलग रखने के लिए किया जाता है। गेम Endless और Sprint लीडरबोर्ड पर सर्वश्रेष्ठ स्कोर भेजता है। सिक्के और आपके कॉस्मेटिक आइटम तथा सर्वश्रेष्ठ स्कोर तथा विज्ञापन की दैनिक गिनती Google Play Games Saved Games के माध्यम से सिंक भी हो सकते हैं।
 
 साइन इन और लीडरबोर्ड स्क्रीन Google Play Games उपलब्ध कराता है। Google की सेटिंग के अनुसार उन स्क्रीन पर आपका Play Games नाम और स्कोर दिख सकता है। इस साइन इन प्रक्रिया से Pocket Sort को आपका Google पासवर्ड या Google खाते का ईमेल नहीं मिलता। आप साइन इन किए बिना खेल सकते हैं लेकिन क्लाउड सेव और लीडरबोर्ड उपलब्ध नहीं हो सकते।
 
