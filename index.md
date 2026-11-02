@@ -13,6 +13,9 @@ permalink: /
 ## 공개 문서
 
 - [Pocket Sort 개인정보처리방침]({{ '/pocket-sort/' | relative_url }})
+- [Castle Cannon 개인정보처리방침]({{ '/castle-cannon/' | relative_url }})
+- [Castle Cannon 서비스 이용약관]({{ '/castle-cannon/terms/' | relative_url }})
+- [Castle Cannon 계정 및 데이터 삭제]({{ '/castle-cannon/data-deletion/' | relative_url }})
 - [개인정보처리방침]({{ '/privacy-policy/' | relative_url }})
 - [이용약관]({{ '/terms/' | relative_url }})
 - [문의 방법]({{ '/contact/' | relative_url }})
