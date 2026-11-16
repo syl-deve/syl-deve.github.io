@@ -4,3 +4,5 @@ lang: ko
 url: https://syl-deve.github.io
 baseurl: ""
 theme: jekyll-theme-cayman
+plugins:
+  - jekyll-sitemap
