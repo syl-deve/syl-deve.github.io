@@ -6,7 +6,7 @@ permalink: /castle-cannon/terms/
 
 # Castle Cannon Terms of Service
 
-**Effective date: November 2 2026**
+**Effective date: November 16 2026**
 
 These terms govern the use of Castle Cannon. By using the service you agree to these terms.
 
@@ -28,11 +28,13 @@ You can use a guest account or a linked Google account. Keep your account secure
 
 ### 3. Public profiles
 
-Leaderboard and battle profile visibility are separate choices. When you enable either feature the game may show the player name and tier and season record and equipped emblem needed for that feature.
+Leaderboard and battle profile visibility are on by default and you can turn each off. While a setting is on the game may show the player name and tier and season record and equipped emblem needed for that feature.
 
 ### 4. Gold and cosmetics
 
-Gold is earned through match rewards and daily missions and optional rewarded ads. The current app does not sell Gold for real money. Gold and cosmetics have no cash value and cannot be transferred between accounts.
+Gold is earned through match rewards and daily missions and optional rewarded ads. Gold packs are sold in the Android app after Google Play billing and server verification are configured. Google Play displays the local price. The game server credits Gold to the linked game account only after Google Play verifies the purchase. Pending purchases do not receive Gold. Gold and cosmetics cannot be transferred between accounts or exchanged for cash.
+
+If Google Play confirms a refund the game removes the corresponding Gold. If the Gold has already been spent any remaining adjustment is applied to future Gold earnings. This does not limit consumer rights provided by applicable law.
 
 ### 5. Fair play
 
@@ -65,11 +67,13 @@ Castle Cannon은 로컬 대전과 친구 초대 및 온라인 랭크 대전과 �
 
 ### 3. 공개 프로필
 
-랭킹 공개와 전투 프로필 공개는 별도로 선택할 수 있습니다. 공개를 켠 경우 해당 기능에 필요한 포수명과 티어와 시즌 전적 및 장착 인장이 다른 이용자에게 표시될 수 있습니다.
+랭킹 공개와 전투 프로필 공개는 기본으로 켜져 있으며 각각 끌 수 있습니다. 공개가 켜져 있으면 해당 기능에 필요한 포수명과 티어와 시즌 전적 및 장착 인장이 다른 이용자에게 표시될 수 있습니다.
 
 ### 4. 골드와 꾸미기
 
-골드는 경기 보상과 일일 임무 및 선택형 보상 광고로 획득합니다. 현재 앱은 현금 결제로 골드를 판매하지 않습니다. 골드와 꾸미기 항목은 현금 가치가 없고 계정 간 이전할 수 없습니다.
+골드는 경기 보상과 일일 임무 및 선택형 보상 광고로 획득합니다. Google Play 골드 상품은 결제와 서버 확인 설정을 마친 Android 앱에서 판매합니다. Google Play가 지역별 가격을 표시합니다. 서버가 Google Play 구매를 확인한 뒤 연결된 게임 계정에 골드를 지급합니다. 보류 중인 구매에는 골드를 지급하지 않습니다. 골드와 꾸미기 항목은 계정 간 이전할 수 없고 현금으로 교환할 수 없습니다.
+
+Google Play 환불이 확인되면 해당 골드를 회수합니다. 골드를 이미 사용해 잔액이 부족하면 남은 조정량을 이후 획득하는 골드에서 먼저 정산합니다. 적용되는 소비자 보호 법령상 권리는 제한하지 않습니다.
 
 ### 5. 공정 이용
 
