@@ -1,0 +1,23 @@
+# syl-deve.github.io
+
+> Public pages for small independent apps by the developer "mythe". The main game is Castle Cannon (캐슬 캐논), a free turn-based 1v1 artillery duel for Android.
+
+## Castle Cannon (캐슬 캐논)
+
+- [Castle Cannon landing page (English)](https://syl-deve.github.io/castle-cannon/play/en/): what the game is, features, how to play, FAQ
+- [캐슬 캐논 소개 페이지 (한국어)](https://syl-deve.github.io/castle-cannon/play/): 게임 소개와 특징과 조작법과 자주 묻는 질문
+- [Google Play install page](https://play.google.com/store/apps/details?id=com.arcfort.fortartillery): free download for Android
+
+Key facts:
+- Genre: turn-based 1v1 artillery duel. Read the wind and the terrain, set angle and power, and hit the enemy castle three times first. Each match takes a few minutes.
+- Modes: online ranked Quick Match, friend matches with a 6-character invite code, AI battles (Easy, Normal, Hard), and a Daily Challenge where everyone plays the same terrain and wind order within 6 shots for a daily leaderboard.
+- If Quick Match finds no human rival within 15 seconds, the player gets an unranked practice match against an AI gunner marked (AI).
+- Price: free. Optional in-app gold purchases and opt-in rewarded ads. Gold buys cosmetics only and never affects who wins. No ads interrupt matches.
+- Platforms: Android only. Not available on iPhone.
+- Languages: Korean and English.
+
+## Policies
+
+- [Castle Cannon privacy policy](https://syl-deve.github.io/castle-cannon/)
+- [Castle Cannon terms of service](https://syl-deve.github.io/castle-cannon/terms/)
+- [Castle Cannon account and data deletion](https://syl-deve.github.io/castle-cannon/data-deletion/)

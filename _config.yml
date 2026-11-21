@@ -6,3 +6,13 @@ baseurl: ""
 theme: jekyll-theme-cayman
 plugins:
   - jekyll-sitemap
+defaults:
+  # 검색 엔진 소유 확인 파일은 사이트맵에서 뺍니다. 파일은 지우지 않습니다.
+  - scope:
+      path: "google6f055a54c14cff91.html"
+    values:
+      sitemap: false
+  - scope:
+      path: "naverac38f1ef08d9750d4527cbf58b9f7112.html"
+    values:
+      sitemap: false
