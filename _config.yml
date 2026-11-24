@@ -16,3 +16,8 @@ defaults:
       path: "naverac38f1ef08d9750d4527cbf58b9f7112.html"
     values:
       sitemap: false
+  # 캐슬 캐논 웹 체험판은 게임 실행 화면이라 사이트맵에서 뺍니다.
+  - scope:
+      path: "castle-cannon/play/web"
+    values:
+      sitemap: false
